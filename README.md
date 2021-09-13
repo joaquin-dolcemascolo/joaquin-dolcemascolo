@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**joaquin-dolcemascolo/joaquin-dolcemascolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Joaquín Dolcemascolo**, and it's a pleasure to meet you!
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’m **currently finishing my graduation project**, a *real-time tracking shipment and fleet management system*.
+🎓 I studied the **Information Systems Engineering** career at the **UTN.**
+💼 Working in a **data migration project** for the city government of Villa María (MVM).
+
+#### Connect with me
+
+[![My personal website](https://i.imgur.com/wZ1SaOH.png)](https://joaquin-dolcemascolo.netlify.app/) [![My LinkedIn profile](https://i.imgur.com/cZc2gDZ.png)](https://www.linkedin.com/in/joaquin-dolcemascolo/)
