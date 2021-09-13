@@ -4,9 +4,9 @@ I'm **Joaquín Dolcemascolo** 🇦🇷, and it's a pleasure to meet you!
 
 #### About me
 
-💻 I’m **currently finishing my graduation project**, a *real-time tracking shipment and fleet management system*.
-🎓 I studied the **Information Systems Engineering** career at the **UTN.**
-💼 Working in a **data migration project** for the city government of Villa María (MVM).
+💻 I’m **currently finishing my graduation project**, a *real-time tracking shipment and fleet management system*.<br>
+🎓 I studied the **Information Systems Engineering** career at the **UTN.**<br>
+💼 Working in a **data migration project** for the city government of Villa María (MVM).<br>
 💬 I’m **interested in connecting IT and people** and I’m **open to new working possibilities.** 
 
 #### Connect with me
