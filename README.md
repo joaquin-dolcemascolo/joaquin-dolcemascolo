@@ -11,4 +11,4 @@ I'm **Joaquín Dolcemascolo** 🇦🇷, and it's a pleasure to meet you!
 
 ### Connect with me
 
-[![My personal website](https://i.imgur.com/wZ1SaOH.png)](https://joaquin-dolcemascolo.netlify.app/) [![My LinkedIn profile](https://i.imgur.com/cZc2gDZ.png)](https://www.linkedin.com/in/joaquin-dolcemascolo/)
+[![My personal website](https://i.imgur.com/wZ1SaOH.png)](https://joaquin-dolcemascolo.vercel.app/) [![My LinkedIn profile](https://i.imgur.com/cZc2gDZ.png)](https://www.linkedin.com/in/joaquin-dolcemascolo/)
